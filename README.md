@@ -1,4 +1,6 @@
-A simple GUI app to create and edit to-do task
+#  TO-DO APP
+
+A simple GUI app to create and edit to-do tasks
 
 cli.py -> This script for creating to-do list through command line.
 
